@@ -1,0 +1,16 @@
+/*
+  File: continents.json
+  Category: geography
+  Description: List of world continents with ISO-like code, name, area (km²), and estimated population.
+  Author: Bocaletto Luca
+  License: CC BY 4.0
+*/
+[
+  { "code": "AF", "name": "Africa",           "area_km2": 30370000, "population_est": 1340598147 },
+  { "code": "AN", "name": "Antarctica",       "area_km2": 14200000, "population_est": 1106 },
+  { "code": "AS", "name": "Asia",             "area_km2": 44579000, "population_est": 4685045391 },
+  { "code": "EU", "name": "Europe",           "area_km2": 10180000, "population_est": 747636026 },
+  { "code": "NA", "name": "North America",    "area_km2": 24709000, "population_est": 592072212 },
+  { "code": "OC", "name": "Oceania",          "area_km2": 8525989,  "population_est": 43111704 },
+  { "code": "SA", "name": "South America",    "area_km2": 17840000, "population_est": 431319666 }
+]

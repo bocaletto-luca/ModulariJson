@@ -1,0 +1,34 @@
+/*
+  File: timezones.json
+  Category: geography
+  Description: Curated list of primary world time zones with identifier, UTC offset, and daylight saving status.
+  Author: Bocaletto Luca
+  License: CC BY 4.0
+*/
+[
+  { "id": "Pacific/Midway",        "utc_offset": "-11:00", "dst": false, "region": "United States Minor Outlying Islands" },
+  { "id": "America/Adak",          "utc_offset": "-10:00", "dst": true,  "region": "United States" },
+  { "id": "Pacific/Honolulu",      "utc_offset": "-10:00", "dst": false, "region": "United States (Hawaii)" },
+  { "id": "Pacific/Marquesas",     "utc_offset": "-09:30", "dst": false, "region": "French Polynesia" },
+  { "id": "America/Anchorage",     "utc_offset": "-09:00", "dst": true,  "region": "United States (Alaska)" },
+  { "id": "America/Los_Angeles",   "utc_offset": "-08:00", "dst": true,  "region": "United States (Pacific)" },
+  { "id": "America/Tijuana",       "utc_offset": "-08:00", "dst": true,  "region": "Mexico" },
+  { "id": "America/Denver",        "utc_offset": "-07:00", "dst": true,  "region": "United States (Mountain)" },
+  { "id": "America/Phoenix",       "utc_offset": "-07:00", "dst": false, "region": "United States (Arizona)" },
+  { "id": "America/Chicago",       "utc_offset": "-06:00", "dst": true,  "region": "United States (Central)" },
+  { "id": "America/Mexico_City",   "utc_offset": "-06:00", "dst": true,  "region": "Mexico" },
+  { "id": "America/Guatemala",     "utc_offset": "-06:00", "dst": false, "region": "Guatemala" },
+  { "id": "America/New_York",      "utc_offset": "-05:00", "dst": true,  "region": "United States (Eastern)" },
+  { "id": "America/Havana",        "utc_offset": "-05:00", "dst": true,  "region": "Cuba" },
+  { "id": "America/Bogota",        "utc_offset": "-05:00", "dst": false, "region": "Colombia" },
+  { "id": "America/Caracas",       "utc_offset": "-04:00", "dst": false, "region": "Venezuela" },
+  { "id": "America/Santiago",      "utc_offset": "-04:00", "dst": true,  "region": "Chile" },
+  { "id": "America/Asuncion",      "utc_offset": "-04:00", "dst": true,  "region": "Paraguay" },
+  { "id": "America/Halifax",       "utc_offset": "-04:00", "dst": true,  "region": "Canada (Atlantic)" },
+  { "id": "America/St_Johns",      "utc_offset": "-03:30", "dst": true,  "region": "Canada (Newfoundland)" },
+  { "id": "America/Argentina/Buenos_Aires", "utc_offset": "-03:00", "dst": false, "region": "Argentina" },
+  { "id": "America/Sao_Paulo",     "utc_offset": "-03:00", "dst": false, "region": "Brazil" },
+  { "id": "America/Godthab",       "utc_offset": "-03:00", "dst": true,  "region": "Greenland" },
+  { "id": "Atlantic/South_Georgia","utc_offset": "-02:00", "dst": false, "region": "South Georgia and the South Sandwich Islands" },
+  { "id": "Atlantic/Azores",       "utc_offset": "-01:00", "dst": true,  "region": "Portugal (Azores)" },
+  { "id": "Atlantic/Cape_Verde",   "utc_offset": "-01:00", "dst":

@@ -31,4 +31,4 @@
   { "id": "America/Godthab",       "utc_offset": "-03:00", "dst": true,  "region": "Greenland" },
   { "id": "Atlantic/South_Georgia","utc_offset": "-02:00", "dst": false, "region": "South Georgia and the South Sandwich Islands" },
   { "id": "Atlantic/Azores",       "utc_offset": "-01:00", "dst": true,  "region": "Portugal (Azores)" },
-  { "id": "Atlantic/Cape_Verde",   "utc_offset": "-01:00", "dst":
+]
